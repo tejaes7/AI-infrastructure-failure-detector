@@ -1,7 +1,7 @@
 # Requirements Document
 
 ## Project Title
-Smart Public Infrastructure Failure Predictor
+Public Infrastructure Failure detector
 
 ## Problem Statement
 Public infrastructure failures such as bridge damage, road deterioration, pipeline leaks, and transformer breakdowns cause safety risks, service disruptions, and high emergency repair costs. Existing monitoring systems are largely reactive and fail to provide early predictive insights.
