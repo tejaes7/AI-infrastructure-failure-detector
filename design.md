@@ -1,7 +1,7 @@
 # Design Document
 
 ## System Overview
-The Smart Public Infrastructure Failure Predictor is an AI-enabled system designed to monitor infrastructure health, detect anomalies, and predict potential failures using IoT data and Machine Learning techniques. The system promotes preventive maintenance strategies.
+ Public Infrastructure Failure dectector is an AI-enabled system designed to monitor infrastructure health, detect anomalies, and predict potential failures using IoT data and Machine Learning techniques. The system promotes preventive maintenance strategies.
 
 ---
 
